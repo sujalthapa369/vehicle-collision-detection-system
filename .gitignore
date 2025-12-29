@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.swp
+
+# Video files (too large for standard git)
+*.webm
+*.mp4
+*.avi
+*.mov
